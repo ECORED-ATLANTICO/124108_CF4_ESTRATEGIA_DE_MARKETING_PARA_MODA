@@ -100,6 +100,10 @@ figcaption
     background-color: #FDF0CC
   &-22
     background-color: #F1F6FF
+  &-23
+    background-color: #E0E8FC
+  &-24
+    background-color: #CEDAF8
   &-white
     background-color: white !important
     border: 1px solid $lightest-gray
@@ -171,7 +175,7 @@ figcaption
       left: 80%
 
 .bloque-texto-b.color-secundario:before 
-  background-color: #FFF9E2
+  background-color: #EEF2FD
 
 /////////////ACORDION/////////////
 .acordion__accion__btn--a
@@ -263,3 +267,37 @@ figcaption
   background-color: #678AEE !important
 .linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__dot, .linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot
   border-color: #678AEE
+
+//CLASES TITULOS//
+.titulo-con-imagen
+  display: flex
+  align-items: center
+  position: relative
+.titulo-con-imagen__fondo
+  background-color: #EAE7F0
+  border-radius: 20px
+  padding: 10px 20px
+  display: inline-flex
+  align-items: center
+.titulo-con-imagen__imagen
+  position: absolute
+  left: 0px
+  width: 70px
+.titulo-con-imagen__texto
+  margin: 0
+  padding-left: 60px
+
+/////////CUSTOM TABS-B///////////////
+.tabs-b__content-item, .tabs-b__tab.tabs-b__tab--active
+  background-color: #F4F5F6
+.tabs-b__tab
+  background-color: #F1F6FF
+
+///////////////TABLAS///////////////////
+.tbl 
+  table td
+    text-align: start !important
+  th, td, table thead th, .tabla-a th 
+    border: 2px solid #B5B5B5
+  table
+    table-layout: auto
