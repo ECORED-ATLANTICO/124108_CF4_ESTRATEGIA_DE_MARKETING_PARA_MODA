@@ -28,21 +28,21 @@
         p.ms-5 Cada empresa genera el contenido de su protocolo, según su dinámica, su tamaño y su cultura de servicio, pero hay puntos esenciales que se deben tener en cuenta. Ellos son:
         .row.mb-5.justify-content-center.align-items-center
           .col-lg-4.mb-3.mb-lg-0
-            .tarjeta-avatar-b.align-items-center(data-aos="fade-up")
+            .tarjeta-avatar-b.align-items-center
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema6/4.svg' alt='')
               .tarjeta.tarjeta--azul
                 .p-4
                   p.mb-0 El organigrama empresarial.
           .col-lg-4.mb-3.mb-lg-0
-            .tarjeta-avatar-b.align-items-center(data-aos="fade-down")
+            .tarjeta-avatar-b.align-items-center
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema6/5.svg' alt='')
               .tarjeta.tarjeta--azul
                 .p-3
                   p.mb-0 Imagen corporativa y los indicadores de uso.
           .col-lg-4.mb-3.mb-lg-0
-            .tarjeta-avatar-b.align-items-center(data-aos="fade-up")
+            .tarjeta-avatar-b.align-items-center
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema6/6.svg' alt='')
               .tarjeta.tarjeta--azul
@@ -50,14 +50,14 @@
                   p.mb-0 Normas de interacción y convivencia.
         .row.mb-5.justify-content-center.align-items-center
           .col-lg-4.mb-3.mb-lg-0
-            .tarjeta-avatar-b.align-items-center(data-aos="fade-up")
+            .tarjeta-avatar-b.align-items-center
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema6/7.svg' alt='')
               .tarjeta.tarjeta--azul
                 .p-3
                   p.mb-0 Códigos de comportamiento que den cuenta de horarios, vestimenta, relaciones y tratamientos personales.
           .col-lg-4.mb-3.mb-lg-0
-            .tarjeta-avatar-b.align-items-center(data-aos="fade-down")
+            .tarjeta-avatar-b.align-items-center
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema6/8.svg' alt='')
               .tarjeta.tarjeta--azul
@@ -68,18 +68,18 @@
         .row.mb-5.justify-content-center.align-items-center.ms-4
           .col-lg-3.mb-3.mb-lg-0
             figure
-              img(src="@/assets/curso/tema6/3.png", data-aos="zoom-in")
+              img(src="@/assets/curso/tema6/3.png")
           .col-lg-9
             .row.mb-3.justify-content-center.align-items-center
               .col-lg-6.mb-3.mb-lg-0
-                .tarjeta-avatar-b.align-items-center(data-aos="fade-up")
+                .tarjeta-avatar-b.align-items-center
                   .tarjeta-avatar-b__img
                     img(src='@/assets/curso/tema6/9.svg' alt='')
                   .tarjeta.tarjeta--azul
                     .p-4
                       p.mb-0 Comprensible a todos los empleados.
               .col-lg-6.mb-3.mb-lg-0
-                .tarjeta-avatar-b.align-items-center(data-aos="fade-down")
+                .tarjeta-avatar-b.align-items-center
                   .tarjeta-avatar-b__img
                     img(src='@/assets/curso/tema6/10.svg' alt='')
                   .tarjeta.tarjeta--azul
@@ -87,14 +87,14 @@
                       p.mb-0 Práctico en cuanto a retomar situaciones cercanas a los empleados.
             .row.justify-content-center.align-items-center
               .col-lg-6.mb-3.mb-lg-0
-                .tarjeta-avatar-b.align-items-center(data-aos="fade-up")
+                .tarjeta-avatar-b.align-items-center
                   .tarjeta-avatar-b__img
                     img(src='@/assets/curso/tema6/11.svg' alt='')
                   .tarjeta.tarjeta--azul
                     .p-4
                       p.mb-0 Accesible en cuanto a disponer de los medios para la venta.
               .col-lg-6.mb-3.mb-lg-0
-                .tarjeta-avatar-b.align-items-center(data-aos="fade-down")
+                .tarjeta-avatar-b.align-items-center
                   .tarjeta-avatar-b__img
                     img(src='@/assets/curso/tema6/12.svg' alt='')
                   .tarjeta.tarjeta--azul
