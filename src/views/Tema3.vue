@@ -25,7 +25,7 @@
       .col-lg-8
         .bg-color-23.tarjeta.p-4.mb-3
           p.mb-0 Los entornos virtuales cada vez son más propicios para la creación de relaciones entre las personas y organizaciones en torno a un interés común. Intercambiar ideas, encontrar información y comprar son algunas acciones que generan un vínculo en los entornos digitales.
-        p Las dinámicas dadas en el entorno virtual son útiles para el servicio y atención al cliente porque ayudan a fidelizar y atraer clientes, pero ¿cuáles son los entornos para crear estos vínculos?, a continuación algunos de ellos.
+        p Las dinámicas dadas en el entorno virtual son útiles para el servicio y atención al cliente porque ayudan a fidelizar y atraer clientes, pero ¿cuáles son los entornos para crear estos vínculos?, a continuación, algunos de ellos.
     
     
     TabsB.color-secundario.mb-5
@@ -73,7 +73,7 @@
         .row.px-3.px-lg-5.align-items-center
           .col-md-8.mb-4.mb-md-0
             h4 <em>Chats online</em>
-            p Son cada vez más comunes y se están implementando como un canal híbrido, pues usan chatbots, robots que realizan el contacto inicial con el cliente, ahorrando tiempo y recursos.
+            p Son cada vez más comunes y se están implementando como un canal híbrido, pues usan <em>chatbots</em>, robots que realizan el contacto inicial con el cliente, ahorrando tiempo y recursos.
           .col-md-4
             figure
               img(src='@/assets/curso/tema3/8.png', alt='')
@@ -83,8 +83,7 @@
         .col-lg-auto.order-2
           img.d-none.d-lg-flex(src="@/assets/curso/tema3/9.png").mx-auto
         .col-lg.order-1.mb-3.mb-lg-0
-          p.mb-0 Los avances tecnológicos y el comercio electrónico han cambiado la interacción, atención y servicio al cliente, este escenario digital promueve una interacción inmediata a través de portales, sitios web o redes sociales, lo cual genera un proceso. Una vez revise el siguiente recurso educativo tendrá la capacidad de describir el paso a paso de un proceso de servicio al cliente en las redes sociales.
-
+          p.mb-0 Recuerde que la presencia de la organización en los entornos digitales debe considerar la comunicación desde aspectos como el respeto por la diferencia, la confianza entre el cliente y la empresa y, el buen tratamiento de los datos personales de las personas.
         
 
 </template>

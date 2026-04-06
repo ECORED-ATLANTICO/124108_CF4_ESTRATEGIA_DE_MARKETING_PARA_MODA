@@ -43,7 +43,7 @@
           .row(titulo="Paso 4").justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-6.mb-4.mb-lg-0
               h5 Preguntas frecuentes
-              p Identificar cuáles son las preguntas o reclamaciones comunes, para generar un manual en la Web que remita a los clientes. Esto optimizará la atención.
+              p Identificar cuáles son las preguntas o reclamaciones comunes, para generar un manual en la web que remita a los clientes. Esto optimizará la atención.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema5/5.png', alt='')

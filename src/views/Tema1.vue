@@ -19,7 +19,7 @@
       )
       .bloque-texto-g__texto.p-4
         p Por eso se puede decir que servicio al cliente es un conjunto de acciones y estrategias que se realizan antes, durante y después del proceso de interacción y transacción entre una organización proveedora de productos, servicios y un cliente.
-
+        <br>
         p.mb-0 El servicio al cliente conlleva a las organizaciones a identificar las necesidades de los consumidores para satisfacerlas a través de soluciones tales como productos y servicios.
     
     .bg-full-width.bg-fondo-1
@@ -57,7 +57,7 @@
     separador
     
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.1 Definición de cliente
+      h2 1.1 Fundamentos del servicio al cliente
     
     img(src="@/assets/curso/tema1/7.png", alt="Imagen decorativa")
     
@@ -99,7 +99,7 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text Para tener una estrategia de marketing ajustada y equilibrada hacia el cliente y hacia la empresa es necesario entender que existen muchos tipos de clientes, no todos los clientes o usuarios son iguales, ni tienen la misma naturaleza. Thompson (2006) habla sobre los distintos tipos de clientes del mercado actual y los clasifica según frecuencia, vigencia de volumen de compra, influencia y nivel de satisfacción, así:
+        p.banner-text Para tener una estrategia de <em>marketing</em> ajustada y equilibrada hacia el cliente y hacia la empresa es necesario entender que existen muchos tipos de clientes, no todos los clientes o usuarios son iguales, ni tienen la misma naturaleza. Thompson (2006) habla sobre los distintos tipos de clientes del mercado actual y los clasifica según frecuencia, vigencia de volumen de compra, influencia y nivel de satisfacción, así:
     
     .row.mb-5.justify-content-center.align-items-center
       .col-md-8.col-lg-4.mb-3.mb-lg-0
@@ -107,36 +107,44 @@
           img(src="@/assets/curso/tema1/11.png", data-aos="zoom-in")
       .col-lg-8
         LineaTiempoD.color-secundario
-          div(numero="1" titulo="Clasificación según su vigencia") 
-            p La clasificación ayuda a identificar a los clientes que a la fecha están comprando y además, a hacer retención de estos. Finalmente, ante los clientes que no compran se deben elaborar acciones para intentar atraerlos.
+          div(numero="A" titulo="Clasificación según su vigencia") 
+            p La clasificación ayuda a identificar a los clientes que a la fecha están comprando y, además, a hacer retención de estos. Finalmente, ante los clientes que no compran se deben elaborar acciones para intentar atraerlos.
             p <b>Clientes activos</b>: son aquellos que están comprando o que hace poco compraron.
             p.mb-0 <b>Clientes inactivos</b>: no realizan compras desde hace un tiempo.
-          div(numero="2" titulo="Clasificación según la frecuencia de compra") 
+          div(numero="B" titulo="Clasificación según la frecuencia de compra") 
             p Esta clasificación entrega insumos para generar múltiples estrategias para potenciar la frecuencia de los clientes, convirtiendo a los de compra habitual y compra ocasional en clientes frecuentes.
             p <b>Clientes de compra frecuente</b>: son aquellos que presentan un intervalo de compra corto y permanente, mostrando rasgos de satisfacción con la empresa, sus productos y servicios.
             p <b>Clientes de compra habitual</b>: son aquellos que realizan compras de vez en cuando, es decir, con cierta regularidad, igualmente se evidencia satisfacción con la empresa, el producto y el servicio.
             p.mb-0 <b>Clientes de compra ocasional</b>: son aquellos que realizan compras por única vez.
-          div(numero="3" titulo="Clasificación según el volumen de compra") 
+          div(numero="C" titulo="Clasificación según el volumen de compra") 
             p Esta clasificación da información importante para generar estrategias para captar clientes, potencializando su promedio de volumen de compra.
-            p <b>Clientes Con Alto Volumen De Compras</b>: son por lo general pocos clientes que generan mayor cantidad de compras que el grueso de los clientes.
+            p <b>Clientes con alto volumen de compras</b>: son por lo general pocos clientes que generan mayor cantidad de compras que el grueso de los clientes.
             p <b>Clientes con promedio de volumen de compras</b>: pero en un nivel medio.
             p.mb-0 <b>Clientes con bajo volumen de compras</b>: que ocasionalmente compran por debajo del promedio.
-          div(numero="4" titulo="Clasificación según el nivel de satisfacción") 
+          div(numero="D" titulo="Clasificación según el nivel de satisfacción") 
             p Esta clasificación da información para mejorar la estrategia de satisfacción y complacencia de todos los clientes.
             p <b>Clientes complacidos</b>: clientes que percibieron que el producto o servicio excedió sus expectativas, generando afinidad y lealtad con la marca.
             p <b>Clientes satisfechos</b>: clientes que apreciaron el desempeño de la empresa, el producto y el servicio como compatible con sus expectativas.
             p.mb-0 <b>Clientes insatisfechos</b>: clientes que apreciaron el desempeño de la empresa, el producto y/o el servicio por debajo de sus expectativas.
-          div(numero="5" titulo="Clasificación según el grado de influencia") 
+          div(numero="E" titulo="Clasificación según el grado de influencia") 
             p Un cliente con influencia ayuda a generar mayor afluencia de clientes nuevos, por eso esta clasificación es vital para establecer estrategias de fidelización de clientes y ampliación de nuevos clientes.
             p <b>Clientes altamente influyentes</b>: generalmente son clientes con reconocimiento social y su influencia se da desde una percepción positiva o negativa.
             p <b>Clientes de regular influencia</b>: clientes con influencia en grupos más reducidos.
-            p.mb-0 <b>Clientes de influencia a nivel familiar</b>: clientes que lograr influenciar escenarios más pequeños como su familia o su grupo de amigos.
-          div(numero="6" titulo="Clasificación según su participación") 
+            p.mb-0 <b>Clientes de influencia a nivel familiar</b>: clientes que logran influenciar escenarios más pequeños como su familia o su grupo de amigos.
+          div(numero="F" titulo="Clasificación según su participación") 
             p <b>Cliente interno</b>: es aquel que participa en el desarrollo del producto o servicio de la empresa, es el empleado, socio, proveedor y tercerizado.
             p.mb-0 <b>Cliente externo</b>: es aquel que contrata o paga el producto final.
-          div(numero="7" titulo="Clasificación clientes potenciales") 
+          div(numero="G" titulo="Clasificación clientes potenciales") 
             p.mb-0 Los clientes potenciales se pueden ubicar de acuerdo con su frecuencia, volumen de compra y su nivel de influencia, es necesario generar estrategias para diferenciarlos y buscar un enfoque para cada tipo en particular.
     
+
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 1.3 Tipos y técnicas de servicio al cliente
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-md-12
+        p.mb-0 Hoy no solo es necesario estudiar la tipología y características de los clientes, sino crear estrategias y técnicas para ofrecer cada vez un mejor servicio al cliente. A continuación, se presenta una serie de tipos y técnicas para ofrecer una experiencia positiva, inolvidable y única a los clientes. Haga una lista en su mente de cuáles podría utilizar y por qué.
+
     .bg-full-width.bg-fondo-2
       .p-4.p-lg-5
         LineaTiempoC.color-acento-contenido.bg-color-white.tarjeta.p-3.p-lg-4
@@ -159,7 +167,7 @@
           .row(titulo="Manejo de quejas, reclamos y sugerencia").justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               h5 Manejo de quejas, reclamos y sugerencia
-              p Las PQRS son actividades básicas del proceso de servicio al cliente que responden a sus necesidades, deseos y expectativas. Estas ayudan a crear estrategias y programas de análisis y resolución eficaz desde una escucha atenta y receptiva a las observaciones de los clientes para dar una solución pronta a su reclamo. Esta acción puede garantizar clientes fieles y satisfechos aún cuando hayan vivido fallas y, genera posibilidades de subsanar errores y promover mejoras.
+              p Las PQRS son actividades básicas del proceso de servicio al cliente que responden a sus necesidades, deseos y expectativas. Estas ayudan a crear estrategias y programas de análisis y resolución eficaz desde una escucha atenta y receptiva a las observaciones de los clientes para dar una solución pronta a su reclamo. Esta acción puede garantizar clientes fieles y satisfechos aun cuando hayan vivido fallas y, genera posibilidades de subsanar errores y promover mejoras.
               p El procedimiento para atender de manera efectiva las quejas y reclamos debe contar con los siguientes factores como principios básicos:
             .col-lg-4
               figure
@@ -216,18 +224,18 @@
                   ul.lista-ul--color.ms-3
                     li.mb-3.d-flex
                       i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                      | Sentido de pertenencia
+                      | Sentido de pertenencia.
                     li.mb-3.d-flex
                       i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                      | Orientación al cliente
+                      | Orientación al cliente.
                 .col-lg-6.mb-4.mb-lg-0
                   ul.lista-ul--color.ms-3
                     li.mb-3.d-flex
                       i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                      | Comunicación asertiva
+                      | Comunicación asertiva.
                     li.mb-3.d-flex
                       i.fas.fa-circle.fa-xs.mt-2.bg-color-18
-                      | Trabajo en equipo
+                      | Trabajo en equipo.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema1/16.png', alt='')
@@ -236,10 +244,10 @@
             .col-lg-6.mb-4.mb-lg-0
               h5 Técnicas de servicio al cliente
               p Este proceso de servicio al cliente se da a través de diferentes técnicas:
-              p <b>Chat en vivo</b>: se ha popularizado esta posibilidad de servicio digital al cliente, es implementada por agentes o incluso por un robot.
-              p <b>Email</b>: continúa siendo el modelo de atención más implementado, posibilita efectividad, precisión y estructuración de la atención y comunicación con el cliente.
-              p <b>Atención telefónica</b>: modelo tradicional que genera conexión personal y emocional con el cliente, identificando su necesidad y posibilitando empatizar con el cliente
-              p <b>Formularios web</b>: toda Web o app debe tener como mínimo un formulario de contacto con el cliente. Es similar a la técnica del correo, aunque también puede derivar en que alguien contacte por teléfono directamente al cliente.
+              p <b><em>Chat</em> en vivo</b>: se ha popularizado esta posibilidad de servicio digital al cliente, es implementada por agentes o incluso por un robot.
+              p <b><em>Email</em></b>: continúa siendo el modelo de atención más implementado, posibilita efectividad, precisión y estructuración de la atención y comunicación con el cliente.
+              p <b>Atención telefónica</b>: modelo tradicional que genera conexión personal y emocional con el cliente, identificando su necesidad y posibilitando empatizar con el cliente.
+              p <b>Formularios web</b>: toda web o <em>app</em> debe tener como mínimo un formulario de contacto con el cliente. Es similar a la técnica del correo, aunque también puede derivar en que alguien contacte por teléfono directamente al cliente.
               p <b>Redes sociales</b>: generan respuestas rápidas con el cliente.
             .col-lg-4
               figure

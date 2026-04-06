@@ -12,7 +12,7 @@
         .col-lg-auto.mb-3.mb-lg-0
           img.d-none.d-lg-flex(src="@/assets/curso/tema7/1.png").mx-auto
         .col-lg
-          p Los avances tecnológicos y el comercio electrónico han cambiado la interacción, atención y servicio al cliente, este escenario digital promueve una interacción inmediata a través de portales, sitios web o redes sociales, lo cual genera un proceso. Una vez revise el siguiente recurso educativo tendrá la capacidad de describir el paso a paso de un proceso de servicio al cliente en las redes sociales.
+          p La normativa de protección de datos personales reconoce y protege el derecho de las personas a conocer, rectificar y actualizar su información almacenada en base de datos o archivos que sean susceptibles de tratamiento por parte de entidades privadas o públicas. En Colombia rige la siguiente normativa.
     
     .row.mb-5.justify-content-center.align-items-center
       .col-md-8.col-lg-4.mb-3.mb-lg-0.order-lg-2

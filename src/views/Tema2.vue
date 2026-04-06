@@ -101,29 +101,29 @@
                 th.bg-color-24 Consideración Ética
             tbody
               tr
-                td 1984
-                td Énfasis en la calidad Gronroos
-                td Imagen corporativa Calidad técnica Calidad funcional
+                td 1984.
+                td Énfasis en la calidad Gronroos.
+                td Imagen corporativa. <br>Calidad técnica. <br>Calidad funcional.
               tr.bg-color-sintesis
-                td 1988
-                td Énfasis en la fiabilidad Parasuraman, Zeithaml y Berry
-                td Elementos tangibles Fiabilidad Respuesta oportuna Seguridad Empatía
+                td 1988.
+                td Énfasis en la fiabilidad Parasuraman, Zeithaml y Berry.
+                td Elementos tangibles. <br>Fiabilidad. <br>Respuesta oportuna. <br>Seguridad. <br>Empatía.
               tr
-                td 1994
-                td Énfasis en los tres componentes Rust y Oliver
-                td Características del servicio Entrega del servicio Ambientes de servicio
+                td 1994.
+                td Énfasis en los tres componentes Rust y Oliver.
+                td Características del servicio. <br>Entrega del servicio. <br>Ambientes de servicio.
               tr.bg-color-sintesis
-                td 2001
-                td Énfasis en la interacción Brady y Cronin
-                td Interacción cliente-empresa Ambiente de servicio Resultado
+                td 2001.
+                td Énfasis en la interacción Brady y Cronin.
+                td Interacción cliente-empresa. <br>Ambiente de servicio. <br>Resultado.
               tr
-                td 2012
-                td Cordero, Astudillo, Carpio, Delgado y Amón
-                td Solución al problema Empatía Entusiasmo
+                td 2012.
+                td Cordero, Astudillo, Carpio, Delgado y Amón.
+                td Solución al problema. <br>Empatía. <br>Entusiasmo.
               tr.bg-color-sintesis
-                td 2019
-                td Ganga, Alarcón y Pedraja
-                td Confiabilidad Seguridad Empatía Experiencia
+                td 2019.
+                td Ganga, Alarcón y Pedraja.
+                td Confiabilidad. <br>Seguridad. <br>Empatía. <br>Experiencia.
 
 </template>
 

@@ -154,174 +154,107 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Alcance',
-      significado: 'Determinar hasta qué punto se puede llegar.',
-    },
-    {
-      termino: 'Banners',
-      significado: 'Formato publicitario en Internet.',
-    },
-    {
-      termino: 'Business',
-      significado: 'Traducción al inglés de ‘negocio’.',
-    },
-    {
-      termino: 'Consumer',
-      significado: 'Traducción al inglés de ‘consumidor’.',
-    },
-    {
-      termino: 'Fidelización de clientes',
+      termino: 'Cadena de satisfacción',
       significado:
-        'Proceso para retener consumidores, con el objetivo de que se conviertan en clientes habituales.',
+        'medio que permite medir las capacidades de sus colaboradores y el sentido de pertenencia con la organización, para así poder brindar a los clientes lealtad a la marca.',
     },
     {
-      termino: 'Intrusivo',
-      significado: 'Que se impone sin autorización.',
-    },
-    {
-      termino: 'Jingle',
+      termino: 'Cliente',
       significado:
-        'Canción publicitaria para promocionar un producto o servicio.',
+        'persona que adquiere un producto o servicio con la finalidad de suplir una necesidad.',
     },
     {
-      termino: 'KPI (Key Performance Indicators)',
+      termino: 'Competitividad',
       significado:
-        'Indicadores clave de desempeño para el despliegue de una estrategia de marketing.',
+        'capacidad de un negocio o empresa para crear estrategias que lo ayuden a adquirir una posición vanguardista en el mercado.',
     },
     {
-      termino: 'Sitio web',
-      significado: 'Conjunto de archivos digitales referentes a un tema.',
+      termino: 'Corporativo',
+      significado: 'perteneciente o relativo a una corporación.',
     },
     {
-      termino: 'Tráfico de usuarios',
-      significado: 'Flujo de información de usuarios en una página web.',
+      termino: 'Cultura organizacional',
+      significado:
+        'conjunto de normas que se tienen en una organización en todas sus áreas, basadas en el respeto, los valores, la ética, la integridad, las actitudes y los hábitos, todo esto genera una persona íntegra y un buen ambiente laboral.',
+    },
+    {
+      termino: 'Estándares',
+      significado:
+        'permiten controlar las operaciones o procesos que se realizan en la organización, teniendo el conocimiento de cada una de las personas que trabajan en ella y de sus actividades.',
+    },
+    {
+      termino: 'Garantía de la calidad',
+      significado:
+        'comprende todas aquellas actividades de una empresa u organismo para conseguir y demostrar la calidad de esta.',
+    },
+    {
+      termino: 'Quejas',
+      significado:
+        'es la forma que tiene el cliente de mostrar su inconformidad con un servicio o producto que esté adquiriendo.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Boada, N. (Julio 26 de 2009). <em>Los 8 pasos de un plan de marketing en redes sociales.</em> Cyberclick.',
+        'Albán, J. (2002). <em>Etiqueta y protocolo</em>. 1ª edición.',
+    },
+    {
+      referencia:
+        'Constitución Política de Colombia [Const.]. Art. 15. 1991 (Colombia).',
+    },
+    {
+      referencia:
+        'Decreto 1377 de 2013. [Presidencia de la República de Colombia]. Por el cual se reglamenta parcialmente la Ley 1581 de 2012. Junio 27 de 2013.',
+    },
+    {
+      referencia:
+        'Deming, W. E. (2009). <em>Calidad, productividad y competitividad: la salida de la crisis</em>. Ediciones Diaz de Santos.',
+    },
+    {
+      referencia:
+        'Ley 1266 de 2008. Por la cual se dictan las disposiciones generales del hábeas data y se regula el manejo de la información contenida en bases de datos personales, en especial la financiera, crediticia, comercial, de servicios y la proveniente de terceros países y se dictan otras disposiciones. Diciembre 31 de 2008.',
+    },
+    {
+      referencia:
+        'Ley 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales. Octubre 17 de 2012.',
+    },
+    {
+      referencia:
+        'Maciá, F., y Gosende, J. (2011). <em>Marketing con redes sociales</em>. Anaya Multimedia.',
+    },
+    {
+      referencia:
+        'Macone, C. F. (2017). <em>Programa para el mejoramiento de la calidad de atención al usuario en el Laboratorio de la Clínica DR. A. L. Briceño Rossi</em>. [Trabajo especial de grado, Universidad Católica Andrés Bello]. Repositorio Institucional UCAB.',
+    },
+    {
+      referencia:
+        'Montoya, C. y Boyero, M. (2013). <em>El CRM como herramienta para el servicio al cliente en la organización</em>. Revista Científica Visión de futuro, 17(1), p. 130-151.',
       link:
-        'https://www.cyberclick.es/numerical-blog/los-8-pasos-de-un-plan-de-marketing-en-redes-sociales',
+        'https://revistacientifica.fce.unam.edu.ar/index.php?option=com_content&view=article&id=323:el-crm-como-herramienta-para-el-servicio-al-cliente-en-la-organizacion&catid=131:articulos-en-espanol',
     },
     {
       referencia:
-        'Cibrián, I. (2018). <em>Marketing digital: Mide, analiza y mejora.</em> ESIC.',
+        'Mora, C., C. E. (2011). <em>La calidad del servicio y la satisfacción del consumidor</em>. Revista Brasileira de Marketing, 10(2), p. 146-162.',
     },
     {
       referencia:
-        'Cyberclick Academy. (Abril de 2020). <em>¿Qué es el SEM o Search Engine Marketing?</em> (2021).',
-      link: 'https://www.cyberclick.es/sem',
-    },
-    {
-      referencia:
-        'Decisión Andina 351 de 1993. {Comisión del Acuerdo de Cartagena}. <em>Régimen común sobre derecho de autor y derechos conexos.</em> Diciembre 17 de 1993.',
-      link: 'https://www.wipo.int/edocs/lexdocs/laws/es/can/can010es.pdf',
-    },
-    {
-      referencia:
-        'De Castro, I. (Septiembre 30 de 2019). <em>¿Qué son herramientas de marketing y por qué debo contar con ellas? Innovacode - Resolución de problemas.</em>',
-    },
-    {
-      referencia:
-        'De Paul, V. (Diciembre 18 de 2020). <em>20 ideas de redes sociales para mantener el feed de tu marca al día. Sprout Social.</em>',
-      link: 'https://sproutsocial.com/insights/ideas-de-redes-sociales/',
-    },
-    {
-      referencia:
-        'Dotras, A. (2018). <em>Social Media. Herramientas y estrategias empresariales.</em> Ediciones de la U.',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=8001',
-    },
-    {
-      referencia:
-        'Giraldo, V. (Febrero 14 de 2019). <em>Plataformas digitales: ¿qué son y qué tipos existen?</em> Rock Content - ES.',
-      link: 'https://rockcontent.com/es/blog/plataformas-digitales/',
-    },
-    {
-      referencia:
-        'Giu, W. (Julio 18 de 2018). <em>Qué es una Estrategia Digital.</em> WalterGiu.',
-      link: 'https://waltergiu.com/blog/que-es-una-estrategia-digital',
-    },
-    {
-      referencia:
-        'Laudon, K., y Laudon, J. (2012). <em>Sistemas de información gerencial.</em> Pearson.',
-      link: 'https://es.calameo.com/read/0045399238b63175162a6',
-    },
-    {
-      referencia:
-        'Ley 23 de 1982. <em>Sobre derechos de autor.</em> Enero 28 de 1982.',
+        'Pérez, V. (2016). <em>Calidad total en la atención al cliente. Pautas para garantizar la excelencia en el servicio</em>. Editorial Ideas propias.',
       link:
-        'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=3431&dt=S',
+        'https://www.academia.edu/8910048/CALIDAD_TOTAL_EN_LA_ATENCI%C3%93N_AL_CLIENTE_Pautas_para_Garantizar_la_Excelencia_en_el_Servicio',
     },
     {
       referencia:
-        'Ley 241 del 2011. <em>Por la cual se regula la responsabilidad por las infracciones al derecho de autor y los derechos conexos en Internet.</em> Abril de 2011.',
-      link:
-        'http://www.informatica-juridica.com/proyecto-de-ley/proyecto-ley-241-derecho-autor-los-derechos-conexos-internet/',
+        'Pincay, Y., Parra, F., C. (2020). <em>Gestión de la calidad en el servicio al cliente de las PYMES comercializadoras. Una mirada en Ecuador</em>. Revista Científica Dominio de las Ciencias, 6 (3), p. 1118-1142.',
+      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=7539747',
+    },
+    {
+      referencia: 'Thompson, I. (2009). <em>Definición de cliente</em>.',
+      link: 'https://www.promonegocios.net/clientes/cliente-definicion.html',
     },
     {
       referencia:
-        'Ley 1834 del 2017. <em>Por medio de la cual se fomenta la economía creativa.</em> Mayo 23 de 2017.',
-      link:
-        'http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/30030647',
-    },
-    {
-      referencia:
-        'Ley 1915 del 2018. <em>Por la cual se modifica la ley 23 del 1982 y se establecen otras disposiciones en materia de derecho de autor y derechos conexos.</em> Julio 12 de 2018.',
-      link:
-        'http://es.presidencia.gov.co/normativa/normativa/LEY%201915%20DEL%2012%20DE%20JULIO%20DE%202018.pdf',
-    },
-    {
-      referencia:
-        'MinTIC. (Septiembre 12 de 2015). <em>Redes sociales: Leyes para tener en cuenta.</em> En TIC confío.',
-      link:
-        'https://www.enticconfio.gov.co/redes-sociales-leyes-para-tener-en-cuenta',
-    },
-    {
-      referencia:
-        'Newberry, C. (Julio 17 de 2020). <em>Análisis de redes sociales: Una guía para principiantes. Social Media Marketing & Management Dashboard.</em>',
-      link: 'https://blog.hootsuite.com/es/analisis-de-redes-sociales/',
-    },
-    {
-      referencia: 'OMPI. (2020). <em>¿Qué es la propiedad intelectual?</em>',
-      link: 'https://www.wipo.int/publications/es/details.jsp?id=4528',
-    },
-    {
-      referencia:
-        'Pérez, A. y Acosta, H. (2003). <em>La convergencia mediática: un nuevo escenario para la gestión de información.</em> Revista Cubana de Información en Ciencias de la Salud, 11(1).',
-      link:
-        'http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1024-94352003000500003',
-    },
-    {
-      referencia:
-        'Pino, C. (2009). <em>El entorno digital en la nueva era de los medios y la publicidad: la metamorfosis del consumidor.</em> Razón y Palabra, (66).',
-      link: 'https://www.redalyc.org/articulo.oa?id=199520908015',
-    },
-    {
-      referencia: 'SENA, (1989). <em>Hablemos de marketing.</em> 11-13.',
-      link: 'https://hdl.handle.net/11404/876',
-    },
-    {
-      referencia:
-        'Silva, R. (2009). <em>Beneficios del comercio electrónico.</em> Perspectivas, (24), 151-164.',
-      link: 'https://www.redalyc.org/articulo.oa?id=425942160008',
-    },
-    {
-      referencia:
-        'Socialmood. (Marzo 13 de 2020). <em>¿Qué es el SEO y por qué lo necesito?</em> 40deFiebre.',
-      link: 'https://www.40defiebre.com/guia-seo/que-es-seo-por-que-necesito',
-    },
-    {
-      referencia:
-        'Thompson, I. (Octubre de 2006). <em>Definición de Marketing. Portal de marketing - Marketing-free.com.</em>',
-      link:
-        'https://www.marketing-free.com/marketing/definicion-marketing.html',
-    },
-    {
-      referencia:
-        'Xie, Y. M. S. (2019). <em>Marketing digital: Navegando en aguas digitales, sumérgete conmigo.</em> Ediciones de la U.',
-      link:
-        'https://login.bdigital.sena.edu.co/login?url=http://www.ebooks7-24.com/?il=9100',
+        'Vera, J. y Trujillo, A. (2013). <em>Factores relevantes de calidad en el servicio en el sector de concreto en el mercado de clientes pequeños y de hogar</em>. Panorama Socioeconómico, 31(46), p. 14-28.',
+      link: 'https://www.redalyc.org/articulo.oa?id=39929212003',
     },
   ],
   creditos: [
@@ -329,14 +262,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -344,9 +278,28 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor metodológico y pedagógico',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Maria Camila Álvarez',
+          cargo: 'Contratista diseño Curricular',
+          centro:
+            'Centro de Formación en Diseño, Confección y Moda Regional - Antioquia',
+        },
+        {
+          nombre: 'Liliana Ceballos',
+          cargo: 'Contratista diseño Curricular',
+          centro:
+            'Centro de Formación en Diseño, Confección y Moda Regional - Antioquia',
+        },
+        {
+          nombre: 'Cristian Metaute Medina',
+          cargo: 'Diseñador instruccional',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
         },
       ],
     },
@@ -354,19 +307,42 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Andrés Felipe Herrera Roldan',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Carlos Andrés Diaz Pinto',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Zuleidy María Ruíz Torres',
+          cargo: 'Producción audiovisual',
+          centro: 'Centro de Comercio y Servicios Regional - Tolima',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Cáceres',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
         },
       ],
     },
@@ -374,14 +350,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Luz Karime Amaya Cabra',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Laura Daniela Burgos Rueda',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adié Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Karine Isabel Ospino Fritz',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },

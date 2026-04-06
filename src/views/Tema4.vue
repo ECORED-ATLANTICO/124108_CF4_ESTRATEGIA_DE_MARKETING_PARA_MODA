@@ -12,14 +12,14 @@
         figure
           img(src="@/assets/curso/tema4/1.png", data-aos="zoom-in")
       .col-lg-8
-        p Hoy en día, los desarrollos en la tecnología y la evolución del marketing al escenario digital han generado nuevos esquemas de relación, interacción y atención al cliente; la Web posibilita nuevas maneras de interactuar con ellos, pues los consumidores se convierten en protagonistas, con varias opciones de interacción; comparten información (foros, chats), premian o castigan contenidos de las diferentes empresas (marcadores sociales), generan opinión (blogs) producen información (wikis, redes sociales).
+        p Hoy en día, los desarrollos en la tecnología y la evolución del <em>marketing</em> al escenario digital han generado nuevos esquemas de relación, interacción y atención al cliente; la web posibilita nuevas maneras de interactuar con ellos, pues los consumidores se convierten en protagonistas, con varias opciones de interacción; comparten información (foros, <em>chats</em>), premian o castigan contenidos de las diferentes empresas (marcadores sociales), generan opinión (<em>blogs</em>) producen información (<em>wikis</em>, redes sociales).
         .bg-color-21.tarjeta.p-4
             p.mb-0 Este nuevo perfil de cliente crea retos para desarrollar relaciones estrechas entre usuarios, marcas y empresas. Observe el siguiente recurso de aprendizaje para que pueda aplicar algunas tendencias en su contexto laboral.
 
     figure.mb-5
       .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/L6_HDDHc78w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Nuevas tendencias
 
 
 </template>
