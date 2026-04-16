@@ -98,7 +98,7 @@
               tr
                 th.bg-color-24 Año
                 th.bg-color-24 Dimensiones
-                th.bg-color-24 Consideración Ética
+                th.bg-color-24 Modelos
             tbody
               tr
                 td 1984.
