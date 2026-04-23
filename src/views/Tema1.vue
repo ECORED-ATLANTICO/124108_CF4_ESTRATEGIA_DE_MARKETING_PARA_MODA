@@ -160,7 +160,7 @@
             .col-lg-6.mb-4.mb-lg-0
               h5 Evaluación del servicio
               p El servicio es un valor subjetivo y no tangible, depende del punto de vista del cliente, por eso puede variar significativamente; ya que se hace necesario la generación de métodos de tabulación de información que produzcan los instrumentos de evaluación del producto y el servicio. Los resultados que arrojen estos ayudará a mejorar procesos y acciones de la organización para la fidelización de los clientes. Esta evaluación permite generar directrices de cambio en procura de lograr cumplir los ANS. Uno de los instrumentos puede ser:
-              p Libreta de calificación del cliente que permite calificar el nivel del servicio que el cliente vive, estructurado en tres niveles: 1. Atributos claves de la calidad del servicio, 2. La importancia relativa de los atributos, 3. Puntaje del negocio en atributos.
+              p Libreta de calificación del cliente que permite calificar el nivel del servicio que el cliente vive, estructurado en tres niveles: 1. Atributos clave de la calidad del servicio, 2. La importancia relativa de los atributos, 3. Puntaje del negocio en atributos.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema1/13.png', alt='')

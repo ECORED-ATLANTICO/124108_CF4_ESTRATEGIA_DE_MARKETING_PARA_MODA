@@ -93,7 +93,7 @@
           span Modelos sobre calidad de servicio
         .tabla-a.color-secundario.mb-5.tbl
           table
-            caption Nota. Esta tabla recoge algunos modelos y dimensiones del servicio al cliente destacados en una época.
+            caption Nota. <span style="font-weight: normal;">Esta tabla recoge algunos modelos y dimensiones del servicio al cliente destacados en una época.</span>
             thead
               tr
                 th.bg-color-24 Año

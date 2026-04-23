@@ -229,8 +229,7 @@ export default {
     {
       referencia:
         'Montoya, C. y Boyero, M. (2013). <em>El CRM como herramienta para el servicio al cliente en la organización</em>. Revista Científica Visión de futuro, 17(1), p. 130-151.',
-      link:
-        'https://revistacientifica.fce.unam.edu.ar/index.php?option=com_content&view=article&id=323:el-crm-como-herramienta-para-el-servicio-al-cliente-en-la-organizacion&catid=131:articulos-en-espanol',
+      link: '',
     },
     {
       referencia:
@@ -239,13 +238,12 @@ export default {
     {
       referencia:
         'Pérez, V. (2016). <em>Calidad total en la atención al cliente. Pautas para garantizar la excelencia en el servicio</em>. Editorial Ideas propias.',
-      link:
-        'https://www.academia.edu/8910048/CALIDAD_TOTAL_EN_LA_ATENCI%C3%93N_AL_CLIENTE_Pautas_para_Garantizar_la_Excelencia_en_el_Servicio',
+      link: '',
     },
     {
       referencia:
         'Pincay, Y., Parra, F., C. (2020). <em>Gestión de la calidad en el servicio al cliente de las PYMES comercializadoras. Una mirada en Ecuador</em>. Revista Científica Dominio de las Ciencias, 6 (3), p. 1118-1142.',
-      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=7539747',
+      link: '',
     },
     {
       referencia: 'Thompson, I. (2009). <em>Definición de cliente</em>.',
@@ -265,7 +263,7 @@ export default {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
             'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
-          centro: 'Dirección General',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
