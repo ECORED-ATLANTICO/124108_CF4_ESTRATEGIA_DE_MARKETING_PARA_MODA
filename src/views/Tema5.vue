@@ -57,7 +57,7 @@
           .row(titulo="Paso 6").justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-6.mb-4.mb-lg-0
               h5 Seguimiento
-              p Implementar una base de datos de los clientes, para resolver y gestionar la solicitud, volverse a contactar para medir el grado de satisfacción o no con la respuesta ofrecida, esto ayuda a la fidelización de los clientes.
+              p Implementar una base de datos de los clientes, para resolver y gestionar la solicitud, volverse a contactar para medir el grado de satisfacción con la respuesta ofrecida, esto ayuda a la fidelización de los clientes.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema5/7.png', alt='')

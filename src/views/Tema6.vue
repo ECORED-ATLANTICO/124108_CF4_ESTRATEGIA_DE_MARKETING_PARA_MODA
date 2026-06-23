@@ -62,7 +62,7 @@
                 img(src='@/assets/curso/tema6/8.svg' alt='')
               .tarjeta.tarjeta--azul
                 .p-4
-                  p.mb-0 Líneas de comunicación corporativas estableciendo, canales y estilos.
+                  p.mb-0 Líneas de comunicación corporativa, estableciendo canales y estilos.
       div(titulo="Características")
         p.ms-5 El protocolo empresarial debe reunir como mínimo las siguientes características:
         .row.mb-5.justify-content-center.align-items-center.ms-4

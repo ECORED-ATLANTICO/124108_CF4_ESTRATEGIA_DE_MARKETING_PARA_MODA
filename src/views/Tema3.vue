@@ -16,7 +16,7 @@
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
-        h3.titulo-con-imagen__texto ¿Cómo generar entornos para generar vínculos con los clientes?
+        h3.titulo-con-imagen__texto ¿Cómo generar entornos que favorezcan la creación de vínculos con los clientes?
       
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -41,7 +41,7 @@
         .row.px-3.px-lg-5.align-items-center
           .col-md-8.mb-4.mb-md-0
             h4 Teléfono
-            p Asociado a las redes, el teléfono sigue siendo uno de los canales de atención más importante y usado, debido a la rapidez del servicio y a la atención inmediata.
+            p Asociado a las redes, el teléfono sigue siendo uno de los canales de atención más importantes y utilizados, debido a la rapidez del servicio y a la atención inmediata.
           .col-md-4
             figure
               img(src='@/assets/curso/tema3/4.png', alt='')
@@ -49,7 +49,7 @@
         .row.px-3.px-lg-5.align-items-center
           .col-md-8.mb-4.mb-md-0
             h4 Redes sociales
-            p Estas plataformas digitales cada vez son de mayor interés entre las personas porque hay un intercambio social a través de contenido. Es importante reconocerlos para crear vínculos con los clientes.
+            p Estas plataformas digitales cada vez son de mayor interés entre las personas porque hay un intercambio social a través de contenido. Es importante reconocerlas para crear vínculos con los clientes.
           .col-md-4
             figure
               img(src='@/assets/curso/tema3/5.png', alt='')
@@ -61,11 +61,11 @@
           .col-md-4
             figure
               img(src='@/assets/curso/tema3/6.png', alt='')
-      .py-4.py-md-5(titulo="SMS (<em>Short Message Service</em>)g" :icono="require('@/assets/componentes/6.svg')")
+      .py-4.py-md-5(titulo="SMS (<em>Short Message Service</em>)" :icono="require('@/assets/componentes/6.svg')")
         .row.px-3.px-lg-5.align-items-center
           .col-md-8.mb-4.mb-md-0
             h4 SMS (<em>Short Message Service</em>)
-            p Son un canal de mensajería de texto para comunicación con el cliente, se usa con información breve. Se usan para conformar el estatus de un pedido o servicio.
+            p Es un canal de mensajería de texto utilizado para la comunicación con el cliente. Se emplea para enviar información breve, como la confirmación del estado de un pedido o de un servicio.
           .col-md-4
             figure
               img(src='@/assets/curso/tema3/7.png', alt='')

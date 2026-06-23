@@ -51,7 +51,7 @@ export default {
             { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de Servicio y atención al cliente.',
+            'Excelente, tiene una adecuada comprensión de la temática de servicio y atención al cliente.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -132,7 +132,7 @@ export default {
         {
           id: 8,
           texto:
-            'La calidad del servicio se relaciona con satisfacción de necesidades del cliente',
+            'La calidad del servicio se relaciona con satisfacción de necesidades del cliente.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

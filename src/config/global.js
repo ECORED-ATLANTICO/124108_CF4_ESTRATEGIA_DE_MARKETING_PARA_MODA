@@ -130,7 +130,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA4_124108_DU.pdf',
+        download: 'downloads/124108_CF04_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -190,7 +190,7 @@ export default {
     {
       termino: 'Quejas',
       significado:
-        'es la forma que tiene el cliente de mostrar su inconformidad con un servicio o producto que esté adquiriendo.',
+        'son la forma que tiene el cliente de mostrar su inconformidad con un servicio o producto que esté adquiriendo.',
     },
   ],
   referencias: [
@@ -225,11 +225,12 @@ export default {
     {
       referencia:
         'Macone, C. F. (2017). <em>Programa para el mejoramiento de la calidad de atención al usuario en el Laboratorio de la Clínica DR. A. L. Briceño Rossi</em>. [Trabajo especial de grado, Universidad Católica Andrés Bello]. Repositorio Institucional UCAB.',
+      link: '',
     },
     {
       referencia:
         'Montoya, C. y Boyero, M. (2013). <em>El CRM como herramienta para el servicio al cliente en la organización</em>. Revista Científica Visión de futuro, 17(1), p. 130-151.',
-      link: '',
+      link: 'https://www.redalyc.org/articulo.oa?id=357935480005',
     },
     {
       referencia:
@@ -243,7 +244,8 @@ export default {
     {
       referencia:
         'Pincay, Y., Parra, F., C. (2020). <em>Gestión de la calidad en el servicio al cliente de las PYMES comercializadoras. Una mirada en Ecuador</em>. Revista Científica Dominio de las Ciencias, 6 (3), p. 1118-1142.',
-      link: '',
+      link:
+        'https://www.dominiodelasciencias.com/ojs/index.php/es/article/view/1341',
     },
     {
       referencia: 'Thompson, I. (2009). <em>Definición de cliente</em>.',
@@ -262,13 +264,13 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional 06. Responsable del Ecosistema de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -279,25 +281,25 @@ export default {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Asesor metodológico y pedagógico',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Maria Camila Álvarez',
-          cargo: 'Contratista diseño Curricular',
+          cargo: 'Contratista diseño curricular',
           centro:
-            'Centro de Formación en Diseño, Confección y Moda Regional - Antioquia',
+            'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
         },
         {
           nombre: 'Liliana Ceballos',
-          cargo: 'Contratista diseño Curricular',
+          cargo: 'Contratista diseño curricular',
           centro:
-            'Centro de Formación en Diseño, Confección y Moda Regional - Antioquia',
+            'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
         },
         {
           nombre: 'Cristian Metaute Medina',
           cargo: 'Diseñador instruccional',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
@@ -307,40 +309,40 @@ export default {
         {
           nombre: 'Andrés Felipe Herrera Roldan',
           cargo: 'Diseñador web',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Carlos Andrés Diaz Pinto',
           cargo: 'Desarrollador <em>full stack</em>',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Zuleidy María Ruíz Torres',
           cargo: 'Producción audiovisual',
-          centro: 'Centro de Comercio y Servicios Regional - Tolima',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Wilson Andrés Arenales Cáceres',
           cargo: 'Producción audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Producción audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Carlos Eduardo Garavito Parada',
           cargo: 'Producción audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
@@ -350,22 +352,22 @@ export default {
         {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Laura Daniela Burgos Rueda',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Jonathan Adié Villafañe',
           cargo: 'Validador y vinculador de recursos digitales',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
           cargo: 'Validador y vinculador de recursos digitales',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },

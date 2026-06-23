@@ -38,7 +38,7 @@
                 p.mb-0 El concepto de calidad del servicio no posee una definición específica, puesto que es el consumidor quien determina qué es la calidad.
                 i.fas.fa-quote-right
               .bloque-texto-d__autor 
-                .h5.mb-0  Cobra (citado por Macon, 2017, p. 70)
+                .h5.mb-0  Cobra (citado por Macone, 2017, p. 70)
           .tarjeta.color-acento-botones--borde.p-4(titulo="Concepto 2")
             .bloque-texto-b.color-secundario.p-3(data-aos="fade-up")
               .bloque-texto-b__texto

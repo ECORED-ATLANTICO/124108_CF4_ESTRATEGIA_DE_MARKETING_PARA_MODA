@@ -29,7 +29,7 @@
             p.mb-0 En el marco de esta ley se dictan las disposiciones generales del hábeas data, regulando el manejo de la información contenida en bases de datos personales, en especial la financiera, crediticia, comercial y de servicios. En los Artículos 2 y 4 se definen las normas especiales para la confidencialidad de los datos y los principios administrativos de estos.
           .tarjeta.color-acento-botones--borde.p-4(titulo="La Ley 1581 de 2012")
             h4 La Ley 1581 de 2012
-            p Esta ley establece los lineamientos para la protección de datos y la autorización de los titulares para el tratamiento de estos y, define que datos personales son cualquier tipo de información asociada a una o varias personas naturales, determinables, como el nombre, la edad, el sexo, el estado civil, el domicilio, entre otros. Además, define que hay diferentes tipos de datos:
+            p Esta ley establece los lineamientos para la protección de datos y la autorización de los titulares para el tratamiento de estos y, define que los datos personales son cualquier tipo de información asociada a una o varias personas naturales, determinables, como el nombre, la edad, el sexo, el estado civil, el domicilio, entre otros. Además, define que hay diferentes tipos de datos:
             ul.lista-ul--color.ms-3.mb-0
               li.mb-3.d-flex
                 i.fas.fa-circle.fa-xs.mt-2
@@ -42,7 +42,7 @@
                 | Dato público.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Decreto 1377 de 2013")
             h4 Decreto 1377 de 2013
-            p.mb-0 Por el cual se reglamenta parcialmente la Ley 1581 de 2013, en la que se comunica a través de los artículos 4, 11 y 23 la recolección de datos personales que pueden limitarse y su duración en el tiempo. Finalmente, se establecen los medios para la protección de datos personales.
+            p.mb-0 Por el cual se reglamenta parcialmente la Ley 1581 de 2012, en la que se comunica a través de los artículos 4, 11 y 23 la recolección de datos personales que pueden limitarse y su duración en el tiempo. Finalmente, se establecen los medios para la protección de datos personales.
     
     img(src="@/assets/curso/tema7/3.png", alt="Imagen decorativa")
     

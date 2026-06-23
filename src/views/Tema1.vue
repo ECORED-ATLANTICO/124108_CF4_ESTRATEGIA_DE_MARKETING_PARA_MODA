@@ -5,13 +5,13 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Introducción al mercadeo
+      h1 Fundamentos del servicio al cliente
     
     img(src="@/assets/curso/tema1/1.png", alt="Imagen decorativa")
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text En la actualidad se trabaja desde los diferentes escenarios empresariales para asegurar que todos los empleados aseguren un buen servicio como clave para lograr el objetivo de generar una experiencia dinámica, proactiva y de calidad para el cliente.
+        p.banner-text En la actualidad se trabaja desde los diferentes escenarios empresariales para asegurar que todos los empleados brinden un buen servicio como clave para lograr el objetivo de generar una experiencia dinámica, proactiva y de calidad para el cliente.
     
     .bloque-texto-g.color-secundario.bg-color-1.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -20,7 +20,7 @@
       .bloque-texto-g__texto.p-4
         p Por eso se puede decir que servicio al cliente es un conjunto de acciones y estrategias que se realizan antes, durante y después del proceso de interacción y transacción entre una organización proveedora de productos, servicios y un cliente.
         <br>
-        p.mb-0 El servicio al cliente conlleva a las organizaciones a identificar las necesidades de los consumidores para satisfacerlas a través de soluciones tales como productos y servicios.
+        p.mb-0 El servicio al cliente lleva a las organizaciones a identificar las necesidades de los consumidores para satisfacerlas a través de soluciones tales como productos y servicios.
     
     .bg-full-width.bg-fondo-1
       .px-4.px-lg-5
@@ -57,7 +57,7 @@
     separador
     
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.1 Fundamentos del servicio al cliente
+      h2 1.1 Definición de cliente
     
     img(src="@/assets/curso/tema1/7.png", alt="Imagen decorativa")
     
@@ -84,11 +84,14 @@
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/9.svg", alt="TEXTOALT")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/9-1.svg", alt="TEXTOALT")
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 1.
+          span Características particulares del cliente moda
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/9.svg", alt="La figura describe las características particulares del cliente de moda mediante una secuencia de cuatro aspectos. Primero, se informa antes de comprar; segundo, busca tendencias a un precio competitivo; tercero, busca calidad en un sentido amplio; y cuarto, desea vivir experiencias interactivas durante el proceso de compra.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/9-1.svg", alt="La figura describe las características particulares del cliente de moda mediante una secuencia de cuatro aspectos. Primero, se informa antes de comprar; segundo, busca tendencias a un precio competitivo; tercero, busca calidad en un sentido amplio; y cuarto, desea vivir experiencias interactivas durante el proceso de compra.")
     
     .cajon.color-acento-contenido.bg-color-9.p-4.mb-4
-      p.mb-0 Con lo mencionado y su experiencia en las redes sociales ¿qué otras características podrían mencionar sobre el cliente?, hacer este hallazgo le permitirá conectar lo que aprendió con su reflexión. Adelante con su formación.
+      p.mb-0 Con lo mencionado y su experiencia en las redes sociales ¿qué otras características podría mencionar sobre el cliente?, hacer este hallazgo le permitirá conectar lo que aprendió con su reflexión. Adelante con su formación.
   
     separador
     
@@ -159,14 +162,14 @@
           .row(titulo="Evaluación del servicio").justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               h5 Evaluación del servicio
-              p El servicio es un valor subjetivo y no tangible, depende del punto de vista del cliente, por eso puede variar significativamente; ya que se hace necesario la generación de métodos de tabulación de información que produzcan los instrumentos de evaluación del producto y el servicio. Los resultados que arrojen estos ayudará a mejorar procesos y acciones de la organización para la fidelización de los clientes. Esta evaluación permite generar directrices de cambio en procura de lograr cumplir los ANS. Uno de los instrumentos puede ser:
+              p El servicio es un valor subjetivo y no tangible, depende del punto de vista del cliente, por eso puede variar significativamente; ya que se hace necesaria la generación de métodos de tabulación de información que produzcan los instrumentos de evaluación del producto y el servicio. Los resultados que arrojen estos ayudarán a mejorar procesos y acciones de la organización para la fidelización de los clientes. Esta evaluación permite generar directrices de cambio en procura de lograr cumplir los ANS. Uno de los instrumentos puede ser:
               p Libreta de calificación del cliente que permite calificar el nivel del servicio que el cliente vive, estructurado en tres niveles: 1. Atributos clave de la calidad del servicio, 2. La importancia relativa de los atributos, 3. Puntaje del negocio en atributos.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema1/13.png', alt='')
-          .row(titulo="Manejo de quejas, reclamos y sugerencia").justify-content-center.align-items-center
+          .row(titulo="Manejo de peticiones, quejas, reclamos y sugerencias").justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
-              h5 Manejo de quejas, reclamos y sugerencia
+              h5 Manejo de peticiones, quejas, reclamos y sugerencias
               p Las PQRS son actividades básicas del proceso de servicio al cliente que responden a sus necesidades, deseos y expectativas. Estas ayudan a crear estrategias y programas de análisis y resolución eficaz desde una escucha atenta y receptiva a las observaciones de los clientes para dar una solución pronta a su reclamo. Esta acción puede garantizar clientes fieles y satisfechos aun cuando hayan vivido fallas y, genera posibilidades de subsanar errores y promover mejoras.
               p El procedimiento para atender de manera efectiva las quejas y reclamos debe contar con los siguientes factores como principios básicos:
             .col-lg-4
@@ -209,7 +212,7 @@
           .row(titulo="Sistema de Gestión de las Relaciones con los Clientes (CRM)").justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               h5 Sistema de Gestión de las Relaciones con los Clientes (CRM)
-              p Las empresas deben generar sistemas que le permitan permanecer conectada con sus clientes para agilizar sus procesos y mejorar la rentabilidad, esto lo posibilita el CRM o gestión de relaciones con clientes, cuyo objetivo gira en torno a la actuación sistémica y coordinada de la empresa para garantizar que el cliente viva una experiencia que sobrepase sus expectativas.
+              p Las empresas deben generar sistemas que le permitan permanecer conectadas con sus clientes para agilizar sus procesos y mejorar la rentabilidad, esto lo posibilita el CRM o gestión de relaciones con clientes, cuyo objetivo gira en torno a la actuación sistémica y coordinada de la empresa para garantizar que el cliente viva una experiencia que sobrepase sus expectativas.
               p Este sistema entrega información de sus clientes, que ayuda a incrementar el conocimiento acerca de ellos y construir relaciones altamente rentables y duraderas.
             .col-lg-4
               figure
@@ -218,7 +221,7 @@
             .col-lg-6.mb-4.mb-lg-0
               h5 Valores que mejoran el servicio al cliente
               p El éxito de toda organización radica en el buen servicio, por eso el desafío es lograr un producto o servicio de calidad, en el marco de superación de expectativas del cliente y un servicio que lo cautive y lo convierta en facilitador para vincular a otros.
-              p Es la identidad organizacional que encarna los valores y los irradia a dar seguridad, confianza y respaldo a los clientes, generando fortalecimiento empresarial. A continuación, puede ver algunos de los valores que son fundamentales en la prestación de un excelente servicio al cliente.
+              p Es la identidad organizacional que encarna los valores y los irradia a dar seguridad, confianza y respaldo a los clientes, generando fortalecimiento empresarial. A continuación, se relacionan algunos de los valores que son fundamentales en la prestación de un excelente servicio al cliente.
               .row.justify-content-center.align-items-center
                 .col-lg-6.mb-4.mb-lg-0
                   ul.lista-ul--color.ms-3
