@@ -18,7 +18,7 @@
         figure
           img(src="@/assets/curso/tema6/2.png", data-aos="zoom-in")
       .col-lg-8
-        p Albán (2002) define la etiqueta como “un conjunto de normas y también de costumbres que las personas deben tener conocimiento y aplicarlas en diferentes actos de índole social, ceremonial y, que a su vez permiten una adecuada relación con los demás” (p. 34).
+        p Rodríguez (2021) conceptualiza la etiqueta empresarial como la asimilación de normas de cortesía y pautas de comportamiento corporativo que buscan sensibilizar la atención comercial, asegurando interacciones fluidas que fortalecen la identidad de la organización frente a sus colaboradores y clientes externos.  
         p Pero en el escenario empresarial se refiere a esa codificación de modales y comportamientos que determinan las formas y modos de relaciones; para generar un buen ambiente deben estar basados en la misión y visión empresarial y en la cultura de servicio definido por la empresa.
         .bg-color-21.tarjeta.p-4
             p.mb-0 Para recopilar esas pautas de comportamiento y criterios empresariales se debe generar un protocolo, entendido como ese documento que establece los principios, normas y actuaciones que se deben generar en la empresa, no es obligatorio, pero sí esencial para construir un ambiente laboral saludable. Este documento tiene unas características y un contenido, por ello, es importante que revise el siguiente recurso de aprendizaje.
